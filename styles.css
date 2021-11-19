@@ -1,1 +1,44 @@
-/* Write your CSS here! */
+p {
+    color: hotpink;
+}
+
+#testP {
+    color: green;
+}
+
+.funParagraph {
+    color: green;
+}
+
+#mainHeading {
+    color: red;
+}
+
+body {
+    margin: 8px;
+    background-color: lightskyblue;
+}
+
+body {
+	background: conic-gradient(
+		from 45deg,
+		#e4b0cd 0,
+		#cbccf8 90deg,
+		#f5e8ae 90deg,
+		#98f7c7 180deg,
+		#babdee 180deg,
+		#ffd093 270deg,
+		#0f9bfe 270deg,
+		#0f9bfe 360deg
+	);
+	background-size: 1em 1em;
+	height: 100vh;
+}
+
+p {
+    background-color: #FFFF00;
+}
+
+li {
+    background-color: lightyellow;
+}
